@@ -17,3 +17,4 @@ spec:
           image: myacrchandu.azurecr.io/m
           ports:
           - containerPort: 8080
+          # github
